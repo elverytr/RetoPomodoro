@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/elver-pomodoro/static/js/main.46663e68.chunk.js",
-    "main.js.map": "/elver-pomodoro/static/js/main.46663e68.chunk.js.map",
-    "runtime-main.js": "/elver-pomodoro/static/js/runtime-main.52fc6b64.js",
-    "runtime-main.js.map": "/elver-pomodoro/static/js/runtime-main.52fc6b64.js.map",
-    "static/css/2.61b4cb56.chunk.css": "/elver-pomodoro/static/css/2.61b4cb56.chunk.css",
-    "static/js/2.813c7eac.chunk.js": "/elver-pomodoro/static/js/2.813c7eac.chunk.js",
-    "static/js/2.813c7eac.chunk.js.map": "/elver-pomodoro/static/js/2.813c7eac.chunk.js.map",
-    "index.html": "/elver-pomodoro/index.html",
-    "static/css/2.61b4cb56.chunk.css.map": "/elver-pomodoro/static/css/2.61b4cb56.chunk.css.map",
-    "static/js/2.813c7eac.chunk.js.LICENSE.txt": "/elver-pomodoro/static/js/2.813c7eac.chunk.js.LICENSE.txt"
+    "main.js": "/reto-pomodoro/static/js/main.46663e68.chunk.js",
+    "main.js.map": "/reto-pomodoro/static/js/main.46663e68.chunk.js.map",
+    "runtime-main.js": "/reto-pomodoro/static/js/runtime-main.5b46788d.js",
+    "runtime-main.js.map": "/reto-pomodoro/static/js/runtime-main.5b46788d.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/reto-pomodoro/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.44f26828.chunk.js": "/reto-pomodoro/static/js/2.44f26828.chunk.js",
+    "static/js/2.44f26828.chunk.js.map": "/reto-pomodoro/static/js/2.44f26828.chunk.js.map",
+    "index.html": "/reto-pomodoro/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/reto-pomodoro/static/css/2.61b4cb56.chunk.css.map",
+    "static/js/2.44f26828.chunk.js.LICENSE.txt": "/reto-pomodoro/static/js/2.44f26828.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.52fc6b64.js",
+    "static/js/runtime-main.5b46788d.js",
     "static/css/2.61b4cb56.chunk.css",
-    "static/js/2.813c7eac.chunk.js",
+    "static/js/2.44f26828.chunk.js",
     "static/js/main.46663e68.chunk.js"
   ]
 }
