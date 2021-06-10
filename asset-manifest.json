@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/reto-pomodoro/static/js/main.46663e68.chunk.js",
-    "main.js.map": "/reto-pomodoro/static/js/main.46663e68.chunk.js.map",
-    "runtime-main.js": "/reto-pomodoro/static/js/runtime-main.5b46788d.js",
-    "runtime-main.js.map": "/reto-pomodoro/static/js/runtime-main.5b46788d.js.map",
-    "static/css/2.61b4cb56.chunk.css": "/reto-pomodoro/static/css/2.61b4cb56.chunk.css",
-    "static/js/2.44f26828.chunk.js": "/reto-pomodoro/static/js/2.44f26828.chunk.js",
-    "static/js/2.44f26828.chunk.js.map": "/reto-pomodoro/static/js/2.44f26828.chunk.js.map",
-    "index.html": "/reto-pomodoro/index.html",
-    "static/css/2.61b4cb56.chunk.css.map": "/reto-pomodoro/static/css/2.61b4cb56.chunk.css.map",
-    "static/js/2.44f26828.chunk.js.LICENSE.txt": "/reto-pomodoro/static/js/2.44f26828.chunk.js.LICENSE.txt"
+    "main.js": "/RetoPomodoro/static/js/main.46663e68.chunk.js",
+    "main.js.map": "/RetoPomodoro/static/js/main.46663e68.chunk.js.map",
+    "runtime-main.js": "/RetoPomodoro/static/js/runtime-main.7373e657.js",
+    "runtime-main.js.map": "/RetoPomodoro/static/js/runtime-main.7373e657.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/RetoPomodoro/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.ae1ce977.chunk.js": "/RetoPomodoro/static/js/2.ae1ce977.chunk.js",
+    "static/js/2.ae1ce977.chunk.js.map": "/RetoPomodoro/static/js/2.ae1ce977.chunk.js.map",
+    "index.html": "/RetoPomodoro/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/RetoPomodoro/static/css/2.61b4cb56.chunk.css.map",
+    "static/js/2.ae1ce977.chunk.js.LICENSE.txt": "/RetoPomodoro/static/js/2.ae1ce977.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5b46788d.js",
+    "static/js/runtime-main.7373e657.js",
     "static/css/2.61b4cb56.chunk.css",
-    "static/js/2.44f26828.chunk.js",
+    "static/js/2.ae1ce977.chunk.js",
     "static/js/main.46663e68.chunk.js"
   ]
 }
